@@ -40,9 +40,11 @@ github安卓：
 
 可自主探究其他内容：
 
-> [Hello World - GitHub Docs](https://docs.github.com/cn/get-started/quickstart/hello-world)
-> [在 GitHub 上编写 - GitHub Docs](https://docs.github.com/cn/get-started/writing-on-github)
-> [GitHub Issues 快速入门 - GitHub Docs](https://docs.github.com/cn/issues/tracking-your-work-with-issues/quickstart)
+[Hello World - GitHub Docs](https://docs.github.com/cn/get-started/quickstart/hello-world)
+
+[在 GitHub 上编写 - GitHub Docs](https://docs.github.com/cn/get-started/writing-on-github)
+
+[GitHub Issues 快速入门 - GitHub Docs](https://docs.github.com/cn/issues/tracking-your-work-with-issues/quickstart)
 
 ## 兼容
 
