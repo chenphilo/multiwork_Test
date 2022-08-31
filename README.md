@@ -18,7 +18,7 @@ github安卓：
 
 > 在多人对内容进行修改时，为了防止干扰，可创建新的分支，然后在自己的分支内操作，每次修改都会自动提醒可以合并merge到主分支main，这个请求合并的过程叫pull request，看具体权限设置，估计大家都有权限，所以可以自己请求，自己通过。
 
-![image](https://github.com/chenphilo/multiwork_Test/blob/%E7%BD%97%E7%B4%A0%E7%9A%84%E7%90%86%E8%AE%BAtex/pic/pull.jpg)
+![image](https://github.com/chenphilo/multiwork_Test/blob/main/pic/pull.jpg)
 
 > 可以按照提醒进行合并，观察下方的改动对比，没有问题就通过合并，不确定时可以Assignees他人审阅。合并后可删除分支，再修改时可重新从main上分支，再在新的分支里操作。
 > 一般对tex进行编辑的人要创建分支，点击main后输入命名，建议用期数+负责的文章命名，然后点击create即可，之后更改仓库时一定要注意是在哪个分支下进行的。
