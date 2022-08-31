@@ -12,7 +12,7 @@ github安卓：
 仓库respositories
 
 > 所有文件的数据库，可以看作共享云端存储，可多人协作对文件上传、删除、编辑等。其地址在创建者下，例如本测试仓库地址为： github.com/chenphilo/multiwork_Test
-> 仓库能保留所有操作的历史，例如 [本测试仓库历史](https://github.com/wakakap/multiwork_Test/network)
+> 仓库能保留所有操作的历史，例如 [本测试仓库历史network](https://github.com/chenphilo/multiwork_Test/network)，也可以浏览各成员的工作内容等，具体在insights里查看。
 
 分支branch
 
