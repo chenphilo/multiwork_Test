@@ -37,3 +37,7 @@
 ![image](pic\desktop_publish.jpg]
 
 > 这个时候我在网页端看，没有找到这个新分支，可见commit并没有把改动上传。于是我按这里的publish。
+
+![image](pic\desktop_pull_request.jpg]
+
+> 这个时候网页上就出现了新分支，可见改动上传了，接下来就可以pull了，操作和网页部分的一样。
