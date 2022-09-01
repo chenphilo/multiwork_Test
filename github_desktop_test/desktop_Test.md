@@ -32,3 +32,8 @@
 
 ![image](pic\destop_commit.jpg]
 
+> 提交之后显示如下图：
+
+![image](pic\desktop_publish.jpg]
+
+> 这个时候我在网页端看，没有找到这个新分支，可见commit并没有把改动上传。于是我按这里的publish。
