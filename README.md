@@ -3,8 +3,12 @@
 
 ## 注册github账号
 只需要邮箱验证即可注册成功，成功后官方会提问几个意向问题，随便回答无关紧要。
-github安卓：
 
+## github安卓的使用
+
+## 配合github desktop使用
+
+参见[desktop](https://github.com/chenphilo/multiwork_Test/blob/github_desktop_Test/desktop_Test.md)
 
 ---
 ## 概念说明
